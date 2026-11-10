@@ -9,5 +9,5 @@ children:
     permalink: /books/
   - title: divider
   - title: Students
-    permalink: /profiles/
+    permalink: /students/
 ---
