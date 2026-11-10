@@ -1,6 +1,6 @@
 ---
 layout: profiles
-permalink: /people/
+permalink: /students/
 title: Students
 description: members of the lab or group
 nav: true
