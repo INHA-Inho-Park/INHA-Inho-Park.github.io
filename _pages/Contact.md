@@ -1,7 +1,7 @@
 ---
 layout: profiles
-permalink: /students/
-title: Students
+permalink: /contact/
+title: Contact
 description: members of the lab or group
 nav: true
 nav_order: 10
