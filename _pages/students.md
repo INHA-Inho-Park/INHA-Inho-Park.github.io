@@ -3,7 +3,7 @@ layout: profiles
 permalink: /students/
 title: Students
 description: members of the lab or group
-nav: true
+nav: false
 nav_order: 7
 
 profiles:
